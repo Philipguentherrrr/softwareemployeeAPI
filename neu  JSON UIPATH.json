@@ -1,0 +1,95 @@
+{
+	"status": "success",
+	"data": [
+		{
+			"employee_id": "EMP001",
+			"name": "Alice Johnson",
+			"designation": "Senior Software Engineer",
+			"department": "Engineering",
+			"monthly_salary": 8500,
+			"currency": "USD",
+			"location": "New York"
+		},
+		{
+			"employee_id": "EMP002",
+			"name": "Bob Smith",
+			"designation": "QA Engineer",
+			"department": "Quality Assurance",
+			"monthly_salary": 6200,
+			"currency": "USD",
+			"location": "Austin"
+		},
+		{
+			"employee_id": "EMP003",
+			"name": "Charlie Brown",
+			"designation": "DevOps Engineer",
+			"department": "Infrastructure",
+			"monthly_salary": 7800,
+			"currency": "USD",
+			"location": "Seattle"
+		},
+		{
+			"employee_id": "EMP004",
+			"name": "Diana Prince",
+			"designation": "Project Manager",
+			"department": "Project Management",
+			"monthly_salary": 9500,
+			"currency": "USD",
+			"location": "Chicago"
+		},
+		{
+			"employee_id": "EMP005",
+			"name": "Ethan Hunt",
+			"designation": "Backend Developer",
+			"department": "Engineering",
+			"monthly_salary": 7200,
+			"currency": "USD",
+			"location": "San Francisco"
+		},
+		{
+			"employee_id": "EMP006",
+			"name": "Fiona Gallagher",
+			"designation": "UI/UX Designer",
+			"department": "Design",
+			"monthly_salary": 6800,
+			"currency": "USD",
+			"location": "Los Angeles"
+		},
+		{
+			"employee_id": "EMP007",
+			"name": "George Miller",
+			"designation": "Scrum Master",
+			"department": "Project Management",
+			"monthly_salary": 8100,
+			"currency": "USD",
+			"location": "Denver"
+		},
+		{
+			"employee_id": "EMP008",
+			"name": "Hannah Baker",
+			"designation": "Data Scientist",
+			"department": "Data Analytics",
+			"monthly_salary": 9100,
+			"currency": "USD",
+			"location": "Boston"
+		},
+		{
+			"employee_id": "EMP009",
+			"name": "Ian Malcolm",
+			"designation": "Cloud Architect",
+			"department": "Infrastructure",
+			"monthly_salary": 10200,
+			"currency": "USD",
+			"location": "Houston"
+		},
+		{
+			"employee_id": "EMP010",
+			"name": "Julia Roberts",
+			"designation": "Full Stack Developer",
+			"department": "Engineering",
+			"monthly_salary": 8800,
+			"currency": "USD",
+			"location": "Miami"
+		}
+	]
+}
